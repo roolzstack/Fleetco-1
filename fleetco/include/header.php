@@ -5,4 +5,4 @@ cellpadding="0">
   <TR>
     <TD>
       <P align="center"><A 
-      href=""><IMG src="images/system.jpg" border="0"></A></P></TD></TR></TBODY></TABLE><BR>
+      href=""><IMG src="images/equinoxTitle.png" border="0"></A></P></TD></TR></TBODY></TABLE><BR>

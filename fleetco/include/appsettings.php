@@ -541,15 +541,15 @@ $globalSettings["LandingPage"] = "login";
 $globalSettings["LandingURL"] = "login.php";
 
 $globalSettings["ProjectLogo"] = array();
-$globalSettings["ProjectLogo"]["Afrikaans"] = "FLEETCO";
-$globalSettings["ProjectLogo"]["Arabic"] = "FLEETCO";
-$globalSettings["ProjectLogo"]["Chinese"] = "FLEETCO";
-$globalSettings["ProjectLogo"]["English"] = "FLEETCO";
-$globalSettings["ProjectLogo"]["French"] = "FLEETCO";
-$globalSettings["ProjectLogo"]["German"] = "FLEETCO";
-$globalSettings["ProjectLogo"]["Italian"] = "FLEETCO";
-$globalSettings["ProjectLogo"]["Russian"] = "FLEETCO";
-$globalSettings["ProjectLogo"]["Spanish"] = "FLEETCO";
+$globalSettings["ProjectLogo"]["Afrikaans"] = "EQUINOX";
+$globalSettings["ProjectLogo"]["Arabic"] = "EQUINOX";
+$globalSettings["ProjectLogo"]["Chinese"] = "EQUINOX";
+$globalSettings["ProjectLogo"]["English"] = "EQUINOX";
+$globalSettings["ProjectLogo"]["French"] = "EQUINOX";
+$globalSettings["ProjectLogo"]["German"] = "EQUINOX";
+$globalSettings["ProjectLogo"]["Italian"] = "EQUINOX";
+$globalSettings["ProjectLogo"]["Russian"] = "EQUINOX";
+$globalSettings["ProjectLogo"]["Spanish"] = "EQUINOX";
 
 $globalSettings["createLoginPage"] = true;
 

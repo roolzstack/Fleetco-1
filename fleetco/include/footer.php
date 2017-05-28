@@ -1,4 +1,4 @@
  
 <P align="center"><FONT 
-size="1">Fleetco v2.0 <A 
-href="http://www.fleetco.space">www.fleetco.space</A></FONT></P>
+size="1">Equinox v1.0 <A 
+href="http://www.roolzstack.com">www.roolzstack.com</A></FONT></P>
